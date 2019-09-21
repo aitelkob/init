@@ -1,0 +1,3 @@
+Run traceroute slash16.org, line 1 is the local IP adress, then line 2
+is the NAT router who's remaping the local IP to a public IP and 
+NAT (10.21.1.1) 
