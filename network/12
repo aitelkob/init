@@ -1,1 +1,0 @@
-ipconfig getifaddr en0
