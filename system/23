@@ -1,0 +1,2 @@
+With graphic session : you enter your user name and password when asked
+With ssh session 	 :ssh <user>@<ip> then put password when asked
