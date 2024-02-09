@@ -1,2 +1,0 @@
-# command = nslookup $(ifconfig en0 | grep "inet " | awk '{print $2}') | grep "name"| awk '{print $4}'
-e2r11p4.1337.ma
