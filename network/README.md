@@ -1,4 +1,4 @@
-# Network Analysis and Scripting Project :satellite:
+# Network Analysis and Scripting :satellite:
 
 ## Overview :mag_right:
 
