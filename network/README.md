@@ -26,8 +26,8 @@ This project is a comprehensive exploration into network administration, focusin
 
 ## Project Contents :file_folder:
 
-- **find_active_interface.sh**: Determines the active network interface of the system.
-- **find_dns_response.sh**: Queries a specified domain against an external DNS server to showcase DNS resolution process.
+- [**find_active_interface.sh**](https://github.com/aitelkob/init/blob/master/network/find_active_interface.sh): Determines the active network interface of the system.
+- [**find_dns_response.sh**](https://github.com/aitelkob/init/blob/master/network/find_dns_response.sh): Queries a specified domain against an external DNS server to showcase DNS resolution process.
 - **find_dns_servers.sh**: Extracts and displays the DNS server configuration for the host system.
 - **find_domain_info.sh**: Utilizes the `whois` command to gather and present detailed domain registration information.
 - **find_domain_ip.sh**: Retrieves the external IP address of a given domain, demonstrating DNS lookup and IP resolution skills.
