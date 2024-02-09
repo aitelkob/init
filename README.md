@@ -16,7 +16,7 @@ This project aims to:
 
 The repository is organized into three key sections:
 
-- **Network**: Exercises and scripts related to network configuration and analysis.
+- [**Network**](https://github.com/aitelkob/init/tree/master/network): Exercises and scripts related to network configuration and analysis.
 - **System**: Tasks focusing on system administration, including system setup, monitoring, and management.
 - **Scripts**: Custom scripts designed to automate various SysAdmin tasks.
 
