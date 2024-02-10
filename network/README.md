@@ -26,12 +26,28 @@ This project is a comprehensive exploration into network administration, focusin
 
 ## Project Contents :file_folder:
 
-- [**find_active_interface.sh**](https://github.com/aitelkob/init/blob/master/network/find_active_interface.sh): Determines the active network interface of the system.
-- [**find_dns_response.sh**](https://github.com/aitelkob/init/blob/master/network/find_dns_response.sh): Queries a specified domain against an external DNS server to showcase DNS resolution process.
-- [**find_dns_servers.sh**](https://github.com/aitelkob/init/blob/master/network/find_dns_servers.sh): Extracts and displays the DNS server configuration for the host system.
-- [**find_domain_info.sh**](https://github.com/aitelkob/init/blob/master/network/find_domain_info.sh): Utilizes the `whois` command to gather and present detailed domain registration information.
-- [**find_domain_ip.sh**](https://github.com/aitelkob/init/blob/master/network/find_domain_ip.sh): Retrieves the external IP address of a given domain, demonstrating DNS lookup and IP resolution skills.
-- [**find_hosting_provider.sh**](https://github.com/aitelkob/init/blob/master/network/find_hosting_provider.sh): Analyzes the `whois` output to identify the hosting provider of a domain, illustrating knowledge of domain registration data structures.
+
+-### Networking Basics
+- [**`list_network_interfaces.sh`**](https://github.com/aitelkob/init/blob/master/network/list_network_interfaces.sh): Lists all network interfaces on the system. 🌐
+- [**`find_active_interface.sh`**](https://github.com/aitelkob/init/blob/master/network/find_active_interface.sh): Identifies the network interface currently in use. 🔍
+- [**`find_default_gateway.sh`**](https://github.com/aitelkob/init/blob/master/network/find_default_gateway.sh): Finds the default gateway for internet connectivity. 🚧
+- [**`find_enthernet_ip.sh`**](https://github.com/aitelkob/init/blob/master/network/find_enthernet_ip.sh): Retrieves the IP address associated with the Ethernet interface. 💻
+
+### DNS Management
+- [**`find_dns_file.sh`**](https://github.com/aitelkob/init/blob/master/network/find_dns_file.sh): Locates the file containing DNS server configurations. 📁
+- [**`find_dns_servers.sh`**](https://github.com/aitelkob/init/blob/master/network/find_dns_servers.sh): Extracts the DNS servers configured on the system. 🌍
+- [**`query_extrenal_dns.sh`**](https://github.com/aitelkob/init/blob/master/network/query_extrenal_dns.sh): Queries an external DNS server to resolve a domain name. 🔎
+- [**`find_domain_ip.sh`**](https://github.com/aitelkob/init/blob/master/network/find_domain_ip.sh): Finds the external IP address of a specified domain. 🏡
+
+### Advanced Networking Tools
+- [**`trace_route_to_domain.sh`**](https://github.com/aitelkob/init/blob/master/network/trace_route_to_domain.sh): Traces the route packets take to a specific domain. 🛣️
+- [**`find_hosting_provider.sh`**](https://github.com/aitelkob/init/blob/master/network/find_hosting_provider.sh): Determines the hosting provider of a given domain. 🏢
+- [**`identify_link_device.sh`**](https://github.com/aitelkob/init/blob/master/network/identify_link_device.sh): Identifies the physical device linked to a network interface. 🔗
+- [**`list_bluetooth_devices.sh`**](https://github.com/aitelkob/init/blob/master/network/list_bluetooth_devices.sh): Lists Bluetooth devices connected to the system. 🎧
+
+### Utility Scripts
+- [**`determine_server_type.sh`**](https://github.com/aitelkob/init/blob/master/network/determine_server_type.sh): Checks if the operating system is Linux or macOS. 🖥️
+
 
 ## Conclusion :trophy:
 
