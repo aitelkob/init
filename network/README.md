@@ -46,7 +46,7 @@ This project is a comprehensive exploration into network administration, focusin
 - [**`list_bluetooth_devices.sh`**](https://github.com/aitelkob/init/blob/master/network/list_bluetooth_devices.sh): Lists Bluetooth devices connected to the system. 🎧
 
 ### Utility Scripts
-- [**`determine_server_type.sh`**](https://github.com/aitelkob/init/blob/master/network/determine_server_type.sh): Checks if the operating system is Linux or macOS. 🖥️
+- [**`determine_server_type.sh`**](https://github.com/aitelkob/init/blob/master/network/determine_server_type.sh): Attempts to infer the server type (HTTP or HTTPS) by checking for responses on ports 80 and 443. 🌐🔒
 
 
 ## Conclusion :trophy:
